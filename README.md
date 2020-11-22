@@ -1,13 +1,21 @@
 ## To-Do-App
 
-1. [X] TODO : 1) TEXT LCD 에서 "Task marked complete" 글귀가 2초 뜬 후 사라진다.
-2. [X] TODO : 2) LED - mListAdapter.getCurrentActiveItems(); 를 data로 전달하고, 해당 값을 통해 현재 active 되어있는 항목의 개수를 표현하는 함수 호출
-3. [X] TODO : 3-1) Dot matrix - 모든 항목 보여주는 상태라는 이미지 보여주는 함수 호출 + LCD
-4. [X] TODO : 3-2) Dot matrix - Active 된 항목 보여주는 상태라는 이미지 보여주는 함수 호출 + LCD
-5. [X] TODO : 3-3) Dot matrix - completed 된 항목 보여주는 상태라는 이미지 보여주는 함수 호출 + LCD
-6. [X] TODO : 3-4) Dot matrix - 현재 filter 이미지 보여주는 화면 종료 함수 호출
-7. [X] TODO : 4-1) 7Segment - 현재 작성중인 글자 수를 보여주는 함수 호출 (data: mDescription.getText().toString().length())
-8. [X] TODO : 4-2) 7Segment - 현재 작성중인 글자 수를 보여주는 함수 호출 (data: 0)
+1. [X] TODO : 1) LCD
+	+ "Task marked complete" 글귀가 2초 뜬 후 사라진다.
+2. [X] TODO : 2) LED
+	+ mListAdapter.getCurrentActiveItems(); 를 data로 전달하고, 현재 active 되어있는 항목의 개수를 표현하는 함수 호출
+3. [X] TODO : 3-1) Dot matrix + LCD
+	+ 모든 항목 보여주는 상태라는 이미지 보여주는 함수 호출 + LCD
+4. [X] TODO : 3-2) Dot matrix + LCD
+	+ Active 된 항목 보여주는 상태라는 이미지 보여주는 함수 호출 + LCD
+5. [X] TODO : 3-3) Dot matrix + LCD
+	+ completed 된 항목 보여주는 상태라는 이미지 보여주는 함수 호출 + LCD
+6. [X] TODO : 3-4) Dot matrix + LCD
+	+ 현재 filter 이미지 보여주는 화면 종료 함수 호출
+7. [X] TODO : 4-1) 7Segment
+	+ 현재 작성중인 글자 수를 보여주는 함수 호출 (data: mDescription.getText().toString().length())
+8. [X] TODO : 4-2) 7Segment
+	+ 현재 작성중인 글자 수를 보여주는 함수 호출 (data: 0)
 
 
 ## 구현 함수
